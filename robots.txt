@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hamiltontilingservice.co.nz/sitemap.xml
